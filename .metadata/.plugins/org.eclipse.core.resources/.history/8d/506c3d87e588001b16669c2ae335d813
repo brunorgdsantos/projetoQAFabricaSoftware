@@ -1,0 +1,8 @@
+package br.com.software.fabrica;
+
+import java.util.Scanner;
+
+public class Principal {
+
+	
+}

@@ -1,0 +1,27 @@
+INDEX VERSION 1.131+/home/bruno/Área de Trabalho/ProjetoFabricaSoftware/.metadata/.plugins/org.eclipse.jdt.core
+2132664204.index
+2253731180.index
+735082545.index
+387809515.index
+646308851.index
+3303936786.index
+1827544206.index
+1781573176.index
+2378433103.index
+1215059239.index
+3723784625.index
+505422739.index
+1433602800.index
+147584684.index
+2453222176.index
+643894484.index
+3405066880.index
+3283379703.index
+1194786279.index
+1609916956.index
+4194010644.index
+3669862630.index
+1204186419.index
+844526679.index
+3385949956.index
+3049857986.index

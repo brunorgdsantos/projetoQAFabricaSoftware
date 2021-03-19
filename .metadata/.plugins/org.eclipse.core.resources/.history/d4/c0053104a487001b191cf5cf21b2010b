@@ -1,0 +1,43 @@
+package br.com.software.fabrica;
+
+import java.awt.Checkbox;
+import java.io.File;
+
+import org.junit.Test;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class PreenchendoEValidando {	
+	
+	static WebDriver driver;
+	
+	@Test
+	public void preenchendo() {
+		File file = new File("/home/bruno/Área de Trabalho/DesafioConductorQA/TestesFront/chromedriver.exe"); //IMPORTAÇÃO DO ARQUIVO DO DRIVER DIRETAMENTE DA PASTA ONDE ELE FOI ALOCADO
+		System.setProperty("webdriver.chrome.driver", file.getAbsolutePath());//SETANDO A PROPRIEDADE “WEBDRIVER.CHROME.DRIVER” NAS PROPRIEDADES DO SISTEMA COM O VALOR DO CAMINHO DO DRIVER, PARA QUE O SELENIUM POSSA ENCONTRAR UMA INSTÂNCIA CORRETA DA CLASSE CHROMEDRIVER
+		WebDriver driver = new ChromeDriver(); //PARA ABRIR UMA INSTÂNCIA DO BROWSER CHROME
+		driver.get("https://testpages.herokuapp.com/styled/basic-html-form-test.html"); //ACESSO AO SITE A SER TESTADO
+		
+		//INICIANDO TESTES: PREENCHENDO OS VALORES
+		WebElement username = driver.findElement(By.name("username")); //CAMPO USERNAME
+		username.sendKeys("QA User"); //PREENCHENDO O CAMPO USERNAME
+		WebElement password = driver.findElement(By.name("password")); //CAMPO PASSWORD
+		password.sendKeys("QA Password"); //PREENCHENDO O CAMPO PASSWORD
+		WebElement comment = driver.findElement(By.name("comments")); //TEXTAREA COMMENT
+		driver.findElement(By.name("comments")).clear();//LIMPANDO O CAMPO TEXTAREA COMMENT
+		comment.sendKeys("Comentario");//PREENCHENDO O CAMPO TEXTAREA COMMENT
+		WebElement checkbox = driver.findElement(By.xpath("/html/body/div/div[3]/form/table/tbody/tr[5]/td/input[1]"));//CHECKBOX
+		checkbox.click();//CLICANDO NO 1º CHECKBOX 
+		WebElement checkbox_two = driver.findElement(By.xpath("/html/body/div/div[3]/form/table/tbody/tr[5]/td/input[2]"));//CHECKBOX
+		checkbox_two.click();//CLICANDO NO 2º CHECKBOX
+		WebElement checkbox_three = driver.findElement(By.xpath("/html/body/div/div[3]/form/table/tbody/tr[5]/td/input[3]"));//CHECKBOX
+		checkbox_three.click();//CLICANDO NO 3º CHECKBOX
+		WebElement radio = driver.findElement(By.xpath("/html/body/div/div[3]/form/table/tbody/tr[6]/td/input[1]"));//CHECKBOX
+		radio.click();//CLICANDO NO 1º OPÇÃO DO RADIO ITEMS
+		WebElement multiple_select_values = driver.findElement(By.xpath("/html/body/div/div[3]/form/table/tbody/tr[7]/td/select/option[1]"));//CHECKBOX
+		multiple_select_values.click();//CLICANDO NO 1º OPÇÃO DO RADIO ITEMS
+		
+	}
+}

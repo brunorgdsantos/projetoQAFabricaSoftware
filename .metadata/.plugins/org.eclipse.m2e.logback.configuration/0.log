@@ -1,0 +1,434 @@
+2021-03-18 00:26:55,416 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-03-18 00:32:06,090 [Worker-16: Creating java8-junit4-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/pom.xml
+2021-03-18 00:32:10,113 [Worker-16: Creating java8-junit4-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.software.:fabrica:0.0.1-SNAPSHOT @ /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/pom.xml.
+2021-03-18 00:32:11,143 [Worker-16: Creating java8-junit4-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /fabrica/src/main/java
+2021-03-18 00:32:11,147 [Worker-16: Creating java8-junit4-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /fabrica/src/test/java
+2021-03-18 00:32:11,880 [Worker-16: Creating java8-junit4-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2021-03-18 00:32:13,658 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 00:32:13,658 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 00:32:13,665 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 00:32:13,666 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 00:35:08,299 [Worker-20: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.software.:fabrica:0.0.1-SNAPSHOT @ /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/pom.xml.
+2021-03-18 00:35:09,130 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 00:35:09,131 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 00:35:09,135 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 00:35:09,136 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 00:35:10,483 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 00:35:10,483 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 00:35:10,486 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 00:35:10,486 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 00:38:14,839 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 00:38:14,855 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 00:38:14,858 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 00:38:14,859 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 00:38:15,933 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 00:38:15,933 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 00:38:15,935 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 00:38:15,935 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 00:38:54,033 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 00:38:54,033 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 00:38:54,038 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 00:38:54,038 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 00:40:32,890 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 00:40:32,890 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 00:40:32,893 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 00:40:32,893 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 00:43:46,887 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 00:43:46,982 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 00:43:46,988 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 00:43:46,988 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 00:44:09,522 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 00:44:09,637 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 00:44:09,642 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 00:44:09,643 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 00:48:01,173 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 00:48:01,200 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 00:48:01,203 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 00:48:01,207 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 00:49:36,412 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 00:49:36,433 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 00:49:36,436 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 00:49:36,437 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 00:49:49,257 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 00:49:49,257 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 00:49:49,262 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 00:49:49,262 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 00:55:48,703 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 00:55:48,732 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 00:55:48,738 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 00:55:48,738 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 01:03:40,159 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:03:40,191 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 01:03:40,193 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:03:40,194 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 01:05:07,601 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:05:07,625 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 01:05:07,630 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:05:07,631 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 01:08:37,808 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:08:37,811 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 01:08:37,815 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:08:37,815 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 01:09:20,288 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:09:20,288 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 01:09:20,291 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:09:20,291 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 01:16:02,135 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:16:02,136 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 01:16:02,138 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:16:02,139 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 01:17:48,755 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:17:48,771 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 01:17:48,775 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:17:48,776 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 01:19:06,360 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:19:06,360 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 01:19:06,363 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:19:06,363 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 01:19:39,054 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:19:39,055 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 01:19:39,057 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:19:39,057 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 01:22:30,041 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:22:30,041 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 01:22:30,043 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:22:30,043 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 01:23:53,700 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:23:53,701 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 01:23:53,703 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:23:53,703 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 01:24:59,094 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:24:59,094 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 01:24:59,096 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:24:59,096 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 01:26:14,459 [Worker-42: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:26:14,459 [Worker-42: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 01:26:14,462 [Worker-42: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:26:14,462 [Worker-42: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 01:26:49,805 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:26:49,805 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 01:26:49,807 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:26:49,807 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 01:27:51,317 [Worker-36: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:27:51,317 [Worker-36: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 01:27:51,339 [Worker-36: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:27:51,339 [Worker-36: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 01:28:27,248 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:28:27,248 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 01:28:27,251 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:28:27,251 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 01:30:20,030 [Worker-45: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:30:20,030 [Worker-45: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 01:30:20,035 [Worker-45: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:30:20,035 [Worker-45: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 01:33:21,338 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:33:21,338 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 01:33:21,340 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:33:21,341 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 01:37:17,509 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:37:17,510 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 01:37:17,511 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:37:17,512 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 01:38:23,933 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:38:23,933 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 01:38:23,936 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:38:23,936 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 01:40:08,181 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:40:08,198 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 01:40:08,200 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:40:08,200 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 01:40:40,806 [Worker-51: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:40:40,806 [Worker-51: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 01:40:40,809 [Worker-51: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:40:40,809 [Worker-51: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 01:41:16,309 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:41:16,309 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 01:41:16,311 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:41:16,311 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 01:41:24,959 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:41:24,959 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 01:41:24,960 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:41:24,960 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 01:45:05,270 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:45:05,270 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 01:45:05,272 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:45:05,273 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 01:46:20,115 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:46:20,115 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 01:46:20,121 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:46:20,121 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 01:47:37,516 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:47:37,517 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 01:47:37,518 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:47:37,518 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 01:47:52,109 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:47:52,110 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 01:47:52,112 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:47:52,112 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 01:50:29,999 [Worker-59: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:50:30,000 [Worker-59: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 01:50:30,002 [Worker-59: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:50:30,002 [Worker-59: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 01:52:30,951 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:52:30,951 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 01:52:30,953 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 01:52:30,953 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 15:38:41,212 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-03-18 15:38:45,510 [Worker-16: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 15:38:45,511 [Worker-16: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 15:38:45,517 [Worker-16: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 15:38:45,517 [Worker-16: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 15:40:01,714 [Worker-1: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 15:40:01,736 [Worker-1: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 15:40:01,740 [Worker-1: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 15:40:01,740 [Worker-1: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 15:46:46,193 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 15:46:46,281 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 15:46:46,285 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 15:46:46,319 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 15:46:59,399 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 15:46:59,400 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 15:46:59,402 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 15:46:59,403 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 15:48:06,407 [Worker-23: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 15:48:06,407 [Worker-23: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 15:48:06,419 [Worker-23: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 15:48:06,419 [Worker-23: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 15:49:15,899 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 15:49:15,908 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 15:49:15,913 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 15:49:15,914 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 15:56:07,696 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 15:56:07,711 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 15:56:07,714 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 15:56:07,714 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 15:59:20,833 [Worker-31: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 15:59:20,844 [Worker-31: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 15:59:20,854 [Worker-31: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 15:59:20,859 [Worker-31: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 16:08:16,689 [Worker-31: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 16:08:16,707 [Worker-31: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 16:08:16,730 [Worker-31: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 16:08:16,730 [Worker-31: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 18:50:32,064 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 18:50:32,078 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 18:50:32,092 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 18:50:32,092 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 19:32:16,778 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-03-18 19:32:30,579 [Worker-8: Launching Principal] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 19:32:30,580 [Worker-8: Launching Principal] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 19:32:30,584 [Worker-8: Launching Principal] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 19:32:30,603 [Worker-8: Launching Principal] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 21:05:11,901 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 21:05:12,289 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 21:05:12,339 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 21:05:12,339 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 21:05:18,941 [Worker-30: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 21:05:18,941 [Worker-30: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 21:05:19,093 [Worker-30: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 21:05:19,093 [Worker-30: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 21:12:03,900 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 21:12:03,944 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 21:12:03,949 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 21:12:03,969 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 21:31:05,351 [Worker-42: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 21:31:05,387 [Worker-42: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 21:31:05,390 [Worker-42: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 21:31:05,391 [Worker-42: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 21:32:34,183 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 21:32:34,184 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 21:32:34,186 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 21:32:34,186 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 21:33:50,640 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 21:33:50,641 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 21:33:50,644 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 21:33:50,644 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 21:34:39,036 [Worker-42: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 21:34:39,037 [Worker-42: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 21:34:39,051 [Worker-42: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 21:34:39,051 [Worker-42: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 21:47:30,668 [Worker-52: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 21:47:30,668 [Worker-52: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 21:47:30,671 [Worker-52: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 21:47:30,671 [Worker-52: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 21:49:03,941 [Worker-55: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 21:49:03,941 [Worker-55: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 21:49:03,944 [Worker-55: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 21:49:03,944 [Worker-55: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 22:52:00,577 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 22:52:00,591 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 22:52:00,595 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 22:52:00,595 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 22:52:47,308 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 22:52:47,309 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 22:52:47,311 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 22:52:47,312 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 22:53:54,304 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 22:53:54,305 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 22:53:54,308 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 22:53:54,308 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 22:55:15,275 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 22:55:15,276 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 22:55:15,277 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 22:55:15,278 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 22:55:42,474 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 22:55:42,474 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 22:55:42,477 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 22:55:42,477 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 22:56:37,020 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 22:56:37,032 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 22:56:37,061 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 22:56:37,061 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 22:58:39,748 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 22:58:39,748 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 22:58:39,750 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 22:58:39,750 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 23:01:27,345 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 23:01:27,346 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 23:01:27,353 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 23:01:27,353 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 23:02:34,517 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 23:02:34,518 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 23:02:34,520 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 23:02:34,520 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 23:03:32,190 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 23:03:32,191 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 23:03:32,193 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 23:03:32,193 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 23:04:38,521 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 23:04:38,521 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 23:04:38,523 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 23:04:38,523 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 23:05:33,044 [Worker-65: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 23:05:33,044 [Worker-65: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 23:05:33,047 [Worker-65: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 23:05:33,047 [Worker-65: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 23:06:28,033 [Worker-65: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 23:06:28,033 [Worker-65: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 23:06:28,037 [Worker-65: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 23:06:28,037 [Worker-65: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 23:08:58,715 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 23:08:58,715 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 23:08:58,717 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 23:08:58,717 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 23:11:02,188 [Worker-76: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 23:11:02,188 [Worker-76: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 23:11:02,190 [Worker-76: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 23:11:02,190 [Worker-76: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 23:13:35,592 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 23:13:35,592 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 23:13:35,596 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 23:13:35,596 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 23:15:23,767 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 23:15:23,783 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 23:15:23,786 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 23:15:23,794 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 23:18:14,303 [Worker-71: Launching Principal] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 23:18:14,303 [Worker-71: Launching Principal] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 23:18:14,327 [Worker-71: Launching Principal] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 23:18:14,327 [Worker-71: Launching Principal] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 23:18:50,371 [Worker-71: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 23:18:50,371 [Worker-71: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 23:18:50,374 [Worker-71: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 23:18:50,374 [Worker-71: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 23:20:52,909 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 23:20:52,945 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 23:20:52,947 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 23:20:52,948 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 23:21:48,921 [Worker-73: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 23:21:48,922 [Worker-73: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 23:21:48,924 [Worker-73: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 23:21:48,924 [Worker-73: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 23:22:16,314 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 23:22:16,314 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 23:22:16,317 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 23:22:16,317 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 23:23:32,238 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 23:23:32,238 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 23:23:32,240 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 23:23:32,240 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 23:24:48,328 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 23:24:48,329 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 23:24:48,331 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 23:24:48,331 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 23:25:04,346 [Worker-73: Launching PreenchendoEValidando.preenchendo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 23:25:04,346 [Worker-73: Launching PreenchendoEValidando.preenchendo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 23:25:04,348 [Worker-73: Launching PreenchendoEValidando.preenchendo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 23:25:04,348 [Worker-73: Launching PreenchendoEValidando.preenchendo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 23:25:32,369 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 23:25:32,369 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 23:25:32,372 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 23:25:32,372 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-18 23:38:29,653 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 23:38:29,654 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-18 23:38:29,656 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-18 23:38:29,657 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-19 11:30:04,320 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-03-19 11:50:07,975 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 11:50:08,025 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-19 11:50:08,030 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 11:50:08,031 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-19 11:51:34,464 [Worker-18: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 11:51:34,471 [Worker-18: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-19 11:51:34,478 [Worker-18: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 11:51:34,478 [Worker-18: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-19 11:52:10,347 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 11:52:10,347 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-19 11:52:10,351 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 11:52:10,352 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-19 11:52:37,745 [Worker-18: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 11:52:37,746 [Worker-18: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-19 11:52:37,756 [Worker-18: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 11:52:37,756 [Worker-18: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-19 11:56:54,085 [Worker-16: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 11:56:54,085 [Worker-16: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-19 11:56:54,089 [Worker-16: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 11:56:54,089 [Worker-16: Launching PreenchendoEValidando] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-19 12:04:47,828 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 12:04:47,836 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-19 12:04:47,840 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 12:04:47,840 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-19 16:01:37,752 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 16:01:37,815 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-19 16:01:37,825 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 16:01:37,825 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-19 16:18:13,535 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 16:18:13,536 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-19 16:18:13,552 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 16:18:13,552 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-19 16:19:04,213 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 16:19:04,213 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-19 16:19:04,217 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 16:19:04,227 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-19 16:19:36,950 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 16:19:36,950 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-19 16:19:36,963 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 16:19:36,964 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-19 16:21:02,049 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 16:21:02,050 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-19 16:21:02,053 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 16:21:02,053 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-19 16:21:44,232 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 16:21:44,232 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-19 16:21:44,242 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 16:21:44,242 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-19 16:22:00,904 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 16:22:00,907 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-19 16:22:00,925 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 16:22:00,927 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-19 16:23:07,912 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 16:23:07,932 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-19 16:23:07,937 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 16:23:07,942 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-19 17:01:34,459 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 17:01:34,531 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-19 17:01:34,545 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 17:01:34,575 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-19 17:02:32,212 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 17:02:32,212 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-19 17:02:32,251 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 17:02:32,251 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources
+2021-03-19 17:21:22,288 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 17:21:22,337 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/main/resources
+2021-03-19 17:21:22,341 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-19 17:21:22,360 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruno/Área de Trabalho/ProjetoFabricaSoftware/fabrica/src/test/resources

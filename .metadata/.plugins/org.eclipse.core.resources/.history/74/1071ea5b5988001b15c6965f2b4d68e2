@@ -1,0 +1,20 @@
+package br.com.software.fabrica;
+
+import java.util.Scanner;
+
+public class Principal {
+
+	public static void main(String [] args) {
+		String num1, num2;
+		
+		Scanner teclado = new Scanner(System.in);
+		
+		System.out.println("Digite um numero\n");
+		num1 = teclado.nextLine();
+		System.out.println("Digite outro numero\n");
+		num2 = teclado.nextLine();
+		
+		float numa = Float.parseFloat(num1);
+		
+	}
+}
